@@ -4,3 +4,6 @@ Selanjutnya setahun setelah ini dilanjutkan, dan pengetahuan tentang git-hub mas
 Nah Begitulah nasib nya
 ## baris baru
 sudah ditulis dengan baik
+
+# update nih
+2020 Juni 9
